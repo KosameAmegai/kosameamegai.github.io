@@ -1,0 +1,2 @@
+# kosameamegai.github.io
+template
